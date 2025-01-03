@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Latyr, Electrical Engineer and Embedded Software Designer
-- 👀 I’m interested in Embedded Systems Engineering and Design
-- 🌱 I’m currently learning how to make the Linux Kernel space a new playground
-- 💞️ I’m looking to collaborate on C/C++ Projects, Embedded Software Projects, Wireless Sensor Network Projects 
-- 📫 How to reach me: latyr.fall@gmail.com
+- 👋 Hi, I’m Latyr and I am an Embedded Systems passionate
+- 🌱 I am interested in bio-instumentation and medical device engineering
+- 🌱 I also have a strong interest for technologies uncovering the unseen via non-invasive measurement techniques
+- 💞️ If you are looking to collaborate on challenging embedded applications, feel free to reach out 
+- 📫 How to reach me: latyr.fall@embd-io.com
 
 <!---
 CheikhLatyrFall/CheikhLatyrFall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
